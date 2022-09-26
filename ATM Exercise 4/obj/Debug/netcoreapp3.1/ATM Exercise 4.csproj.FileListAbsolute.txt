@@ -1,0 +1,14 @@
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\bin\Debug\netcoreapp3.1\ATM Exercise 4.exe
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\bin\Debug\netcoreapp3.1\ATM Exercise 4.deps.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\bin\Debug\netcoreapp3.1\ATM Exercise 4.runtimeconfig.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\bin\Debug\netcoreapp3.1\ATM Exercise 4.runtimeconfig.dev.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\bin\Debug\netcoreapp3.1\ATM Exercise 4.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\bin\Debug\netcoreapp3.1\ATM Exercise 4.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.csproj.AssemblyReference.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.AssemblyInfoInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.AssemblyInfo.cs
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Week3\ATM Exercise 4\obj\Debug\netcoreapp3.1\ATM Exercise 4.genruntimeconfig.cache
